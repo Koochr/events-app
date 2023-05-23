@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "es5",
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "useUnknownInCatchVariables": false,
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*"]
+}
